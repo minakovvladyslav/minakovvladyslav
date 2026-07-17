@@ -15,12 +15,14 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3a2617e7-a1a5-48a7-9ba1-a56288bb6e44" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cee02e0c-d2c3-464d-9b27-e2176b19d923" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba299730-4252-469d-bb5b-7c414dd518a0" />
-------------------------------------------------------------------------------------
 
-
-
-📫 Reach me: <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dd4abdd1-240e-43ec-992f-929d9e1def29" />
+<div>
+  📫 Reach me: <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dd4abdd1-240e-43ec-992f-929d9e1def29" />
 </a>
+</div>
+
+
+
 
 <!--
 **minakovvladyslav/minakovvladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
