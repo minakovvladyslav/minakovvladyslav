@@ -11,7 +11,7 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 - 🌱 Always learning: now diving deeper into JavaScript and Git.
 - 🎯 Goal: to become a reliable junior frontend developer and contribute to meaningful projects.
 - What do i use :<br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 📫 Reach me: [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/@Vasilyocks) · [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:minakovvladislav2021@gmail.com)
 
