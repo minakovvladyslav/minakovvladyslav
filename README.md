@@ -19,9 +19,6 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 &nbsp;
 &nbsp;
 
-&nbsp;
-
-&nbsp;
 
 
 
