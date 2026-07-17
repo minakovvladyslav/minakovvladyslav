@@ -12,6 +12,12 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 - 🎯 Goal: to become a reliable junior frontend developer and contribute to meaningful projects.
 - What do i use :<br>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2a1da4b2-f620-465e-93a4-90b1bd7d14d8" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3a2617e7-a1a5-48a7-9ba1-a56288bb6e44" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cee02e0c-d2c3-464d-9b27-e2176b19d923" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba299730-4252-469d-bb5b-7c414dd518a0" />
+
+
+
 
 
 📫 Reach me: [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/@Vasilyocks) · [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:minakovvladislav2021@gmail.com)
