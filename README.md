@@ -10,7 +10,9 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 - 💻 Currently building my portfolio and improving my skills through small projects.
 - 🌱 Always learning: now diving deeper into JavaScript and Git.
 - 🎯 Goal: to become a reliable junior frontend developer and contribute to meaningful projects.
-- What do i use :<br>
+- ⚡fun fact: When i was young i could drink 10-12 cups of tea per day and i am not from the Great Britain
+
+ What do i use :<br>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2a1da4b2-f620-465e-93a4-90b1bd7d14d8" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3a2617e7-a1a5-48a7-9ba1-a56288bb6e44" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cee02e0c-d2c3-464d-9b27-e2176b19d923" />
