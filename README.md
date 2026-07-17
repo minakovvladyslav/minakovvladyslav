@@ -16,7 +16,12 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cee02e0c-d2c3-464d-9b27-e2176b19d923" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba299730-4252-469d-bb5b-7c414dd518a0" />
 
+&nbsp;
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 
 
