@@ -20,7 +20,8 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 
 
 
-📫 Reach me: <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios">https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios</a>
+📫 Reach me: <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dd4abdd1-240e-43ec-992f-929d9e1def29" />
+</a>
 
 <!--
 **minakovvladyslav/minakovvladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
