@@ -20,7 +20,7 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 
 
 
-📫 Reach me: [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/@Vasilyocks) · [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:minakovvladislav2021@gmail.com)
+📫 Reach me: <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios">https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios</a>
 
 <!--
 **minakovvladyslav/minakovvladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
