@@ -32,8 +32,12 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 
 
 
-<div style="margin-top: 50px;">
-  📫 Reach me: <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dd4abdd1-240e-43ec-992f-929d9e1def29" />
+  📫 Reach me:(click icons) <a href="https://www.linkedin.com/in/vladyslav-minakov-1524973a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dd4abdd1-240e-43ec-992f-929d9e1def29" />
+</a>
+<a href="https://t.me/Vasilyocks"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6b1952c4-22d1-4e19-9e49-1b614abcd9d6" />
+</a>
+<a href="mailto:minakovvladislav2021@gmail.com"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d9259063-8057-4132-94b9-d8c0864ce62f" />
+>
 </a>
 </div>
 
