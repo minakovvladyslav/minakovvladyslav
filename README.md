@@ -5,6 +5,7 @@
 ## 👋 About Me
 
 I'm a beginner frontend developer with a passion for clean, responsive design and interactive user interfaces.
+I speak english, ukranian, russian.
 
 - 🎓 Completed Front End / Web UI course (HTML, CSS, JavaScript) — 115 hours, certified by *Freelancer Life Style*.
 - 💻 Currently building my portfolio and improving my skills through small projects.
