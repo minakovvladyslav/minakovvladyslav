@@ -47,12 +47,12 @@ I'm a beginner frontend developer with a passion for clean, responsive design an
 
 Crossone — a website about machine tools. My main goal was to make every page clear for anyone: even a child should understand what a button does or how to order a product. I really enjoyed solving the mobile adaptation challenge. Tech stack: HTML5, SCSS, JavaScript (Typed.js, MutationObserver).
 links: 
-<a src = "https://minakovvladyslav.github.io/works/"> Main</a>
-<a src = "https://minakovvladyslav.github.io/works/about"> About</a>
-<a src = "https://minakovvladyslav.github.io/works/contact"> Contacts</a>
-<a src = "https://minakovvladyslav.github.io/works/services"> Services</a>
+<a href = "https://minakovvladyslav.github.io/works/"> Main</a>
+<a href = "https://minakovvladyslav.github.io/works/about"> About</a>
+<a href = "https://minakovvladyslav.github.io/works/contact"> Contacts</a>
+<a href = "https://minakovvladyslav.github.io/works/services"> Services</a>
 link of repository : 
-<a src = "https://github.com/minakovvladyslav/works">link</a>
+<a href = "https://github.com/minakovvladyslav/works">link</a>
 
 <!--
 **minakovvladyslav/minakovvladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
